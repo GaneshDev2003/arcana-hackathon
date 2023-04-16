@@ -5,7 +5,7 @@ export const Tableau =()=> {
     
   var viz;
   const ref = useRef(null);
-  const url =  "https://public.tableau.com/views/Book2_without6m/Dashboard3?";
+  const url =  "https://public.tableau.com/shared/RY6XD3HH6";
   const initViz = ()=>{
     if(viz){
         viz.dispose();
