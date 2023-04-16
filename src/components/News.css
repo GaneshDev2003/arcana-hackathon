@@ -1,0 +1,20 @@
+.top {   
+   padding:20px /* 505 / 2 */
+}
+.newsGrid{
+    margin: auto;
+}
+.gridDiv{
+    border: 0.05em solid red;
+    width:100%;
+    display: flex;
+    justify-content: center;
+}
+.main{
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 20px;
+}
